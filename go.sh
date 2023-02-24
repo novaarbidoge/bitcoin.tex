@@ -1,0 +1,2 @@
+pdflatex -pdf bw.tex
+
